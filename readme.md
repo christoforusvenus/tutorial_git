@@ -2,7 +2,7 @@
 
 Tutorial ini akan mengolah data titanic menjadi data yang siap untuk dilakukan pemodelan. 
 
-## prerequisites
+## prerequisites // (wajib ada)
 
 1. Download data [here](https://www.kaggle.com/c/titanic)
 2. Installasi dengan `pip install requirements.txt`
@@ -22,4 +22,4 @@ x_train.shape, y_train.shape```
 
 ## References
 
-1. Di scikit-e
+1. Di scikit-learn documentation
